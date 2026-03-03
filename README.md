@@ -1,2 +1,0 @@
-# Mini-world
-Hello, world.
